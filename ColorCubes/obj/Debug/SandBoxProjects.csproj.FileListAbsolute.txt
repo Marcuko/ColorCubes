@@ -1,0 +1,10 @@
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\bin\Debug\SandBoxProjects.exe.config
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\bin\Debug\SandBoxProjects.exe
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\bin\Debug\SandBoxProjects.pdb
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.csprojAssemblyReference.cache
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.Properties.Resources.resources
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.csproj.GenerateResource.cache
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.csproj.CoreCompileInputs.cache
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.exe
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.pdb
+C:\Users\debna\source\repos\SandBoxProjects\SandBoxProjects\obj\Debug\SandBoxProjects.MainForm.resources
